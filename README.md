@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @huykhalac
+- 👋 Hi, I’m @huy
 - 👀 
-- 🌱 I’m currently learning in PTIT
-- facebook:https://www.facebook.com/huycn09
+- 🌱 I’m currently learning Information and Technology
+- Class: D21CQCN09-B
+- University: Post and Telecommunication Institute of Technology 
 
 
 
